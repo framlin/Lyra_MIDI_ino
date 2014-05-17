@@ -1,7 +1,7 @@
 Lyra_MIDI_ino
 =============
 
-An Arduino-powering MIDI-Controller for the Lyras of Christoph März
+An Arduino-driving MIDI-Controller for the Lyras of Christoph März
 
 Have a look at 
 [Lyra Sound Lab](https://www.youtube.com/channel/UC4BnuKw4lP4ZwNQWtT9Ahdw) 
